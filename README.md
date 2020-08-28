@@ -8,7 +8,7 @@
 - [Class Diagrams](/OOPBasic/ClassDia.html)
 - [Case Diagrams](/OOPBasic/CaseDia.html)
 - [Sequence Diagrams](/OOPBasic/SeqDia.html)
-- [Activity Diagrams](/OOPBasic/Activity.html)
+- [Activity Diagrams](/OOPBasic/ActivityDia.html)
 
 ## OOP Cases
 
